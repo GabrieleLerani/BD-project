@@ -1,3 +1,0 @@
-/home/gabriele/Scrivania/Sistema di noleggio film/build/CMakeFiles/rental_sys.dir
-/home/gabriele/Scrivania/Sistema di noleggio film/build/CMakeFiles/edit_cache.dir
-/home/gabriele/Scrivania/Sistema di noleggio film/build/CMakeFiles/rebuild_cache.dir
